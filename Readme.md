@@ -2,13 +2,13 @@
  * @Author: hiddenSharp429 z404878860@163.com
  * @Date: 2024-09-10 09:36:11
  * @LastEditors: hiddenSharp429 z404878860@163.com
- * @LastEditTime: 2024-09-10 09:54:45
+ * @LastEditTime: 2024-09-10 09:59:50
  * @FilePath: /Network_port_traffic_monitoring_system/readme.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 <div align="center">
   
-  [![Static Badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%40hiddenSharp429-red)](https://github.com/hiddenSharp429/STU-Youth-League-Committee-WeChat-Mini-Program/blob/master/README_CN.md)    |  [![Static Badge](https://img.shields.io/badge/English-%40hiddenSharp429-blue)](https://github.com/hiddenSharp429/STU-Youth-League-Committee-WeChat-Mini-Program) 
+  [![Static Badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%40hiddenSharp429-red)](https://github.com/hiddenSharp429/Network-Port-Traffic-Monitoring-System/blob/main/Readme_CN.md)    |  [![Static Badge](https://img.shields.io/badge/English-%40hiddenSharp429-blue)](https://github.com/hiddenSharp429/Network-Port-Traffic-Monitoring-System/blob/main/Readme.md)) 
   
 </div>
 
