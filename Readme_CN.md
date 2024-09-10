@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Static Badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%40hiddenSharp429-red)](https://github.com/hiddenSharp429/STU-Youth-League-Committee-WeChat-Mini-Program/blob/master/README_CN.md)    |  [![Static Badge](https://img.shields.io/badge/English-%40hiddenSharp429-blue)](https://github.com/hiddenSharp429/STU-Youth-League-Committee-WeChat-Mini-Program)) 
+  [![Static Badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%40hiddenSharp429-red)](https://github.com/hiddenSharp429/Network-Port-Traffic-Monitoring-System/blob/main/Readme_CN.md)    |  [![Static Badge](https://img.shields.io/badge/English-%40hiddenSharp429-blue)](https://github.com/hiddenSharp429/Network-Port-Traffic-Monitoring-System/blob/main/Readme.md)) 
   
 </div>
 
