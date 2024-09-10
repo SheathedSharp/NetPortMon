@@ -1,0 +1,8 @@
+PyQt5
+scapy
+pymysql
+psutil
+cachetools
+cryptography
+matplotlib
+mplcursors
