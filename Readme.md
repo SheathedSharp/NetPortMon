@@ -1,10 +1,6 @@
 <!--
  * @Author: hiddenSharp429 z404878860@163.com
  * @Date: 2024-09-10 09:36:11
- * @LastEditors: hiddenSharp429 z404878860@163.com
- * @LastEditTime: 2024-09-10 09:59:50
- * @FilePath: /Network_port_traffic_monitoring_system/readme.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 <div align="center">
   
@@ -48,6 +44,63 @@ This system is a network port traffic monitoring tool based on Python and PyQt5.
     ```bash
     python main.py
     ```
+
+## Database Configuration
+In order to use the database, you need to configure the database first.
+### Database Setup
+1. The system uses MySQL for data persistence and historical analysis
+2. Create a new MySQL database and execute the following SQL:
+```SQL
+CREATE TABLE capture_sessions (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  start_time DATETIME,
+  end_time DATETIME
+);
+
+CREATE TABLE packets (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  session_id INT,
+  packet_data JSON,
+  capture_time DATETIME,
+  FOREIGN KEY (session_id) REFERENCES capture_sessions(id)
+);
+```
+
+### Database Settings
+1. Access database settings through the toolbar settings icon
+2. Configure the following parameters:
+   - Host: MySQL server address
+   - Port: MySQL server port (default 3306)
+   - Database: Database name
+   - Username: MySQL username
+   - Password: MySQL password
+
+### Database Features
+1. **Data Persistence**
+   - Automatically saves captured packet information
+   - Stores detailed packet metadata in JSON format
+   - Maintains capture session history
+
+2. **Historical Analysis**
+   - View historical traffic patterns
+   - Generate traffic statistics by time period
+   - Compare traffic across different capture sessions
+
+3. **Data Security**
+   - Encrypted database credentials storage
+   - Secure connection handling
+   - Password protection for sensitive data
+
+### Usage Examples
+1. **View Historical Data**
+   - Click the "Historical Chart" button in the toolbar
+   - Select date range for analysis
+   - Choose specific processes or view all traffic
+
+2. **Export Data**
+   - Export captured data to CSV/JSON format
+   - Generate custom reports from historical data
+   - Backup capture sessions for later analysis
 
 ## Notes
 1. Administrator privileges are required to capture network packets.
