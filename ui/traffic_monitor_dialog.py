@@ -1,10 +1,6 @@
 '''
-Author: hiddenSharp429 z404878860@163.com
+Author: SheathedSharp429 z404878860@163.com
 Date: 2024-09-09 00:15:19
-LastEditors: hiddenSharp429 z404878860@163.com
-LastEditTime: 2024-09-09 21:41:21
-FilePath: /Network_port traffic_monitoring_system/ui/traffic_monitor_dialog.py
-Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE%E5%8D%972
 '''
 from PyQt5.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QComboBox, QPushButton
 from PyQt5.QtChart import QChart, QChartView, QLineSeries, QValueAxis

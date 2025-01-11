@@ -1,10 +1,6 @@
 '''
-Author: hiddenSharp429 z404878860@163.com
+Author: SheathedSharp429 z404878860@163.com
 Date: 2024-09-08 21:04:44
-LastEditors: hiddenSharp429 z404878860@163.com
-LastEditTime: 2024-09-09 20:40:38
-FilePath: /Network_port traffic_monitoring_system/core/database_manager.py
-Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE%E5%8F%82
 '''
 import pymysql
 from datetime import datetime

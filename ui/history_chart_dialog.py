@@ -1,10 +1,6 @@
 '''
-Author: hiddenSharp429 z404878860@163.com
+Author: SheathedSharp429 z404878860@163.com
 Date: 2024-09-09 16:37:05
-LastEditors: hiddenSharp429 z404878860@163.com
-LastEditTime: 2024-09-09 21:30:40
-FilePath: /Network_port traffic_monitoring_system/ui/history_cart_dialog.py
-Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE%E5%8F%82
 '''
 from datetime import datetime, timedelta
 from PyQt5.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QPushButton, QDateEdit, QTimeEdit, QComboBox, QLabel, QTableWidget, QTableWidgetItem
