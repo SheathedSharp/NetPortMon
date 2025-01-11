@@ -1,5 +1,5 @@
 '''
-Author: SheathedSharp429 z404878860@163.com
+Author: SheathedSharp z404878860@163.com
 Date: 2024-09-08 17:34:25
 '''
 from PyQt5.QtWidgets import QTextEdit

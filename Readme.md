@@ -1,10 +1,10 @@
 <!--
- * @Author: SheathedSharp429 z404878860@163.com
+ * @Author: SheathedSharp z404878860@163.com
  * @Date: 2024-09-10 09:36:11
 -->
 <div align="center">
   
-  [![Static Badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%40SheathedSharp429-red)](https://github.com/SheathedSharp429/Network-Port-Traffic-Monitoring-System/blob/main/Readme_CN.md)    |  [![Static Badge](https://img.shields.io/badge/English-%40SheathedSharp429-blue)](https://github.com/SheathedSharp429/Network-Port-Traffic-Monitoring-System/blob/main/Readme.md)) 
+  [![Static Badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%40SheathedSharp-red)](https://github.com/SheathedSharp/NetPortMon/blob/main/Readme_CN.md)    |  [![Static Badge](https://img.shields.io/badge/English-%40SheathedSharp-blue)](https://github.com/SheathedSharp/NetPortMon/blob/main/Readme.md)) 
   
 </div>
 

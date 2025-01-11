@@ -1,5 +1,5 @@
 '''
-Author: SheathedSharp429 z404878860@163.com
+Author: SheathedSharp z404878860@163.com
 Date: 2024-09-09 00:15:19
 '''
 from PyQt5.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QComboBox, QPushButton

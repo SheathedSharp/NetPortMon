@@ -1,5 +1,5 @@
 '''
-Author: SheathedSharp429 z404878860@163.com
+Author: SheathedSharp z404878860@163.com
 Date: 2024-09-09 16:37:05
 '''
 from datetime import datetime, timedelta

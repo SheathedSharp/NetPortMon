@@ -1,5 +1,5 @@
 '''
-Author: SheathedSharp429 z404878860@163.com
+Author: SheathedSharp z404878860@163.com
 Date: 2024-09-08 17:33:50
 '''
 from PyQt5.QtWidgets import QMainWindow, QVBoxLayout, QHBoxLayout, QWidget, QToolBar, QAction, QComboBox, QLabel, QMessageBox, QFileDialog, QProgressDialog
@@ -31,7 +31,7 @@ class MainWindow(QMainWindow):
         self.traffic_monitor_dialog = None
         self.history_chart_dialog = None
         self.capture_session_id = None
-        self.settings = QSettings("SheathedSharp429", "NetworkMonitor")
+        self.settings = QSettings("SheathedSharp", "NetworkMonitor")
         self.fernet = Fernet(self.get_or_create_key())
 
         self.load_settings()
